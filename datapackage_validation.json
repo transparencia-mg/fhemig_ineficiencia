@@ -1,11 +1,11 @@
 {
   "version": "4.16.6",
-  "time": 0.038,
+  "time": 0.017,
   "errors": [],
   "tasks": [
     {
       "resource": {
-        "description": "Dados da (in)eficiência operacional (DRG) por unidade FHEMIG a partir de 2025.",
+        "description": "Dados da (in)eficiência operacional (DRG) por unidade FHEMIG.",
         "dialect": {
           "delimiter": ";"
         },
@@ -40,7 +40,7 @@
           ]
         },
         "scheme": "file",
-        "title": "(In)eficiência operacional a partir de 2025",
+        "title": "(In)eficiência operacional",
         "stats": {
           "hash": "953bfa36131b54ed059d1503a67dfb3a",
           "bytes": 5504,
@@ -48,7 +48,7 @@
           "rows": 222
         }
       },
-      "time": 0.029,
+      "time": 0.012,
       "scope": [
         "hash-count-error",
         "byte-count-error",
