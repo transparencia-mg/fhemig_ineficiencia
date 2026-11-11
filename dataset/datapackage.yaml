@@ -8,8 +8,8 @@ resources:
     encoding: utf-8-sig
     format: csv
     hashing: md5
-    name: ineficiencia-operacional-2025
-    path: data/ineficiencia-operacional-2025.csv
+    name: ineficiencia-operacional
+    path: data/ineficiencia-operacional.csv
     profile: tabular-data-resource
     schema:
       fields:
